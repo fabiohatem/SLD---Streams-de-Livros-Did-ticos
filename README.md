@@ -26,4 +26,6 @@ Projeto de Engenharia de Software de estudantes da UFRPE, para uma streams de li
 **REQ4** - Os alunos(pais)cadastram-se na plataforma e escolhem os livros que querem usar, tendo como parâmetro as indicações da escola.
 **REQ5** - Os alunos acessam os conteúdos dos livros para eles comprados pelo período letivo determinado. 
 **REQ6** - O sistema deve ser capaz de armazenar os dados dos 'planos' assinados pelos usuários(pais) na medida de encerrar o acesso quando encerrado o período pago e reabrir se por acaso a assinatura for continuada.
+**REQ7** - O sistema deve ser capaz de ter um atitude administradora própria em relação à cobrança e atualização de renovação dos planos solicitados pelo usúario final
+**REQ8** - O usuário, exercendo seu poder como comusidor, deve ter a opcãode uma assinatura automática, podendo ser cancelada quando bem entender
 
