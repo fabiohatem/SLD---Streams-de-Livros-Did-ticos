@@ -31,3 +31,17 @@ Projeto de Engenharia de Software de estudantes da UFRPE, para uma streams de li
 **REQ8** - O sistema deve ser capaz de ter um atitude administradora própria em relação à cobrança e atualização de renovação dos planos solicitados pelo usúario final
 **REQ9** - O usuário, exercendo seu poder como comusidor, deve ter a opcãode uma assinatura automática, podendo ser cancelada quando bem entender
 
+## Modelo de negócio
+
+-Participação pais e estudantes
+* Assinatura mínima mensal, com descontos gradativos para planos de maior periodicidade. 
+* Pode-se assinar a partir de um livro didático, com evolução de descontos para assinatura de pacotes. 
+- Participação das editoras. 
+* As editoras não teriam custos de impressão, logística de distribuição, perdas com materiais não comercializados e facilidade de revisão.
+- Participação dos autores do material didático. 
+* Autores independentes poderiam fazer sua própria revisão e edição do material, divulgando-o e comercializando pela SDL.
+- Participação das escolas parceiras cadastradas
+* As escolas teriam acesso ao material indicado por seus professores de forma gratuita.
+* Teriam acesso também a todo material da SDL para análise por um período de dois meses para cada professor por título. 
+
+
