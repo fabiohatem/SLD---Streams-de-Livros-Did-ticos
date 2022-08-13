@@ -23,10 +23,11 @@ Projeto de Engenharia de Software de estudantes da UFRPE, para uma streams de li
 
 **REQ1** - O sistema deve controlar o acesso através de login e senha. Os usuários do sistema serão do tipo aluno, escola, administrador. 
 **REQ2** - O administrador deve disponibilizar os livros didáticos (conveniados) na plataforma.
-**REQ3** - As escolas escolhem os livros de acordo com a série e a disciplina, mostrados através de uma lista. 
-**REQ4** - Os alunos(pais)cadastram-se na plataforma e escolhem os livros que querem usar, tendo como parâmetro as indicações da escola.
-**REQ5** - Os alunos acessam os conteúdos dos livros para eles comprados pelo período letivo determinado. 
-**REQ6** - O sistema deve ser capaz de armazenar os dados dos 'planos' assinados pelos usuários(pais) na medida de encerrar o acesso quando encerrado o período pago e reabrir se por acaso a assinatura for continuada.
-**REQ7** - O sistema deve ser capaz de ter um atitude administradora própria em relação à cobrança e atualização de renovação dos planos solicitados pelo usúario final
-**REQ8** - O usuário, exercendo seu poder como comusidor, deve ter a opcãode uma assinatura automática, podendo ser cancelada quando bem entender
+**REQ3** - As escolas escolhem os livros de acordo com a série e a disciplina
+**REQ4** - Os livros disponibilizados mostrados através de uma lista. 
+**REQ5** - Os alunos(pais)cadastram-se na plataforma e escolhem os livros que querem usar, tendo como parâmetro as indicações da escola.
+**REQ6** - Os alunos acessam os conteúdos dos livros para eles comprados pelo período letivo determinado. 
+**REQ7** - O sistema deve ser capaz de armazenar os dados dos 'planos' assinados pelos usuários(pais) na medida de encerrar o acesso quando encerrado o período pago e reabrir se por acaso a assinatura for continuada.
+**REQ8** - O sistema deve ser capaz de ter um atitude administradora própria em relação à cobrança e atualização de renovação dos planos solicitados pelo usúario final
+**REQ9** - O usuário, exercendo seu poder como comusidor, deve ter a opcãode uma assinatura automática, podendo ser cancelada quando bem entender
 
