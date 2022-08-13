@@ -9,7 +9,8 @@ Projeto de Engenharia de Software de estudantes da UFRPE, para uma streams de li
  
 ## Descrição geral do projeto 
 
-	
+	Percebemos no começo do ano que vários pais passam por uma maratona para compra do material didático de seus filhos. Essa busca em várias livrarias consome bastante tempo e também recursos financeiros das famílias com materiais didáticos que serão usados apenas neste ano, e não raro apenas em algumas ocasiões específicas. Não menos importante, a operação logística para transporte e utilização desse material pelos estudantes durante o ano é penosa, uma vez que existe a necessidade de separar diariamente o material que será utilizado nas disciplinas do dia seguinte, como também o transporte desse material que tem um peso considerável nas bolsas dos alunos. Diante disso resolvemos criar uma stream de livros didáticos.
+
 	Este aplicativo visa facilitar a vida de pais, estudantes e escolas na utilização de livros didáticos para alunos do ensino médio. Disponibilizando os livros de forma online para os alunos. No mesmo formato dos livros impressos. Mediante uma taxa que daria direito ao uso durante um determinado tempo a que esse material fosse indicado pela escola.  
  1. Quem vai usar o programa?
 	Os alunos e professores usaram o aplicativo. Mas os pais também serão beneficiados pela redução do custo na aquisição do produto, já que eles deverão custar bem menos que os impressos. 
